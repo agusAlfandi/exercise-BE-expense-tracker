@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "salary",
+    "nominal": 100000,
+    "type": "income",
+    "category": "salary",
+    "date": "2020-01-01"
+  },
+  {
+    "id": 2,
+    "title": "bonus",
+    "nominal": 50000,
+    "type": "income",
+    "category": "salary",
+    "date": "2020-01-02"
+  },
+  {
+    "id": 3,
+    "title": "lunch",
+    "nominal": 10000,
+    "type": "expense",
+    "category": "food",
+    "date": "2020-01-03"
+  },
+  {
+    "id": 4,
+    "title": "bus fare",
+    "nominal": 50000,
+    "type": "expense",
+    "category": "transport",
+    "date": "2020-01-04"
+  },
+  {
+    "title": "Eat",
+    "nominal": 60000,
+    "type": "expense",
+    "category": "food",
+    "id": 8
+  },
+  {
+    "title": "vication",
+    "nominal": 100000,
+    "type": "expense",
+    "category": "transport",
+    "id": 9
+  },
+  {
+    "title": "breakfast",
+    "nominal": 11000,
+    "type": "expense",
+    "id": 10,
+    "category": "food",
+    "date": "2024-06-10"
+  },
+  {
+    "title": "overtime",
+    "nominal": 250000,
+    "type": "income",
+    "category": "salary",
+    "date": "2024-06-13",
+    "id": 14
+  },
+  {
+    "title": "overtime",
+    "nominal": 250000,
+    "type": "expense",
+    "category": "salary",
+    "date": "2024-06-14",
+    "id": 15
+  },
+  {
+    "title": "running at stadium",
+    "nominal": 250000,
+    "type": "expense",
+    "category": "transport",
+    "date": "2024-06-15",
+    "id": 16
+  }
+]
